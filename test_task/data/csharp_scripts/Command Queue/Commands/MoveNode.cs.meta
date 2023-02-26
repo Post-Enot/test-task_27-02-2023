@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>b18af96dfb840be8c889fe273883655a5b46f4f1</guid>
+	<type>component</type>
+	<hash>7815e7dc</hash>
+	<runtimes>
+		<runtime id="b18af96dfb840be8c889fe273883655a5b46f4f1" name="MoveNode.cs" link="0"/>
+	</runtimes>
+</asset>

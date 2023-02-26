@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>be8b14414de9e0ac519fe41b5d134abef2bf7305</guid>
+	<type>component</type>
+	<hash>6d15988d</hash>
+	<runtimes>
+		<runtime id="be8b14414de9e0ac519fe41b5d134abef2bf7305" name="ScaleNode.cs" link="0"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>ad88cc2e7e39a5b5cc0f7b90d58399af85707b42</guid>
+	<type>launch_settings</type>
+	<hash>cfd770e6</hash>
+	<runtimes>
+		<runtime id="ad88cc2e7e39a5b5cc0f7b90d58399af85707b42" name="Default_2.launch" link="0"/>
+	</runtimes>
+</asset>

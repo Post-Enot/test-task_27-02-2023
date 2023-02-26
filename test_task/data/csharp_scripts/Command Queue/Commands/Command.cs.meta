@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>b1a69d2cfdd0769bc469bb3e9f76298577f70d20</guid>
+	<type>component</type>
+	<hash>1bdc26f4</hash>
+	<runtimes>
+		<runtime id="b1a69d2cfdd0769bc469bb3e9f76298577f70d20" name="Command.cs" link="0"/>
+	</runtimes>
+</asset>

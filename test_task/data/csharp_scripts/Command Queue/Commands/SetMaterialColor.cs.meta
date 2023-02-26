@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>ca850e29ead6017492353e43f47ccec6927e576d</guid>
+	<type>component</type>
+	<hash>c6e0130a</hash>
+	<runtimes>
+		<runtime id="ca850e29ead6017492353e43f47ccec6927e576d" name="SetMaterialColor.cs" link="0"/>
+	</runtimes>
+</asset>
